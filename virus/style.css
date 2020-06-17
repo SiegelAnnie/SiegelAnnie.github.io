@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: darkviolet;
+  font-family: Bradley Hand;
+  font-size: 25px;
+}
+
+.here {
+        text-align: center;
+        color: darkviolet;
+        font-family: Bradley Hand;
+        font-size: 25px;
+      }
+
+canvas {
+  display: block;
+}
+
+#controls {
+  width: 100%
+}
+
+#restart {
+  width: 100%
+}
+
+.container-fluid {
+  width: 90%;
+}
